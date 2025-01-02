@@ -19,3 +19,5 @@ admin = name;
 
 alert( admin ); // "Джон"
 let ourPlanetName = "Земля"; // Лучше описать содержимое переменной подробнее
+console.log(Number.MAX_SAFE_INTEGER); // Максимальное возможное целое число
+9007199254740991
