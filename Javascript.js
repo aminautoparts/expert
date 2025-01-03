@@ -23,3 +23,8 @@ console.log(Number.MAX_SAFE_INTEGER); // Максимальное возможн
 9007199254740991
 console.log(Infinity / 10); // деление на бесконечность бесконечность 
 Infinity / Infinity; // NaN 13 Урок 
+let yuansPerDollar = 6.91;
+let dollarsCount = 50 * 1.25; // 62.5
+let yuansCount = dollarsCount * yuansPerDollar; // 431.875
+
+console.log(yuansCount);
